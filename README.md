@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Çakır</h1>
-<h3 align="center">I'm Burak Çakır, I'm 30 years old. I have been involved in software development for 3 years. During this time, I did an internship in web development at a company for 4 months.</h3>
+<h3 align="center">I'm Burak Çakır, I'm 30 years old. I have been involved in software development for 3 years.</h3>
 
 <p align="left"> <img src="https://avatars.githubusercontent.com/u/73242451?v=4" alt="burakcakir" /> </p>
 
