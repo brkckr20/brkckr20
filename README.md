@@ -9,8 +9,8 @@
 </ul>
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/brkckr20" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-black?logo=github&style=flat-square" alt="github"/></a>
-<a href="https://www.linkedin.com/in/burak-%C3%A7ak%C4%B1r-b2876216a/" target="_blank"><img src="https://img.shields.io/badge/-Marcelo_Garbin-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
+<a href="https://github.com/brkckr20" target="_blank"><img src="https://img.shields.io/badge/-black?logo=github&style=flat-square" alt="github"/></a>
+<a href="https://www.linkedin.com/in/burak-%C3%A7ak%C4%B1r-b2876216a/" target="_blank"><img src="https://img.shields.io/badge/-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
 <a href="https://www.instagram.com/burakcakirgs" target="_blank"><img src="https://img.shields.io/badge/-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
 <a href="mailto:burak2043@gmail.com"><img src="https://img.shields.io/badge/-burak2043@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
