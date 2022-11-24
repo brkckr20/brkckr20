@@ -1,5 +1,5 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Burak Çakır<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, ReactJS, ExpressJS, MongoDB, NodeJs and all the technology behind it...</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack web developer, ReactJS, NextJS, ExpressJS, MongoDB, NodeJs and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently React Native / Tailwind CSS)</li>
